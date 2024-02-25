@@ -36,3 +36,8 @@ Efficiency: Automated tumor detection using U-Net can significantly reduce the t
 Early Diagnosis: Timely detection of brain tumors enables early intervention and improves patient outcomes by facilitating prompt treatment planning.
 Brain tumor detection using U-Net represents a powerful application of deep learning in medical imaging, with the potential to revolutionize clinical practice and improve patient care.
 
+Run
+
+train.py file to train your dataset 
+Unet.py file to get output 
+
